@@ -4,10 +4,7 @@
       <div class="field is-grouped is-grouped-multiline">
         <div class="control">
           <div class="tags has-addons">
-            <center>
-              <a href="https://t.me/arakurumi" target="_blank"><img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/arakurumi&style=social&logo=telegram&link=https://t.me/arakurumi" />
-              </a>
-            </center>
+            <a href="https://t.me/arakurumi" target="_blank"><img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/arakurumi&style=social&logo=telegram&link=https://t.me/arakurumi"/></a>
           </div>
         </div>
       </div>

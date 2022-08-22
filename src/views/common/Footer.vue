@@ -4,14 +4,10 @@
       <div class="field is-grouped is-grouped-multiline">
         <div class="control">
           <div class="tags has-addons">
-            <a
-              class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
-            <span class="tag is-light">
-              MIT &nbsp;
-              <span class="icon">
-                <i class="fa fa-github"></i>
+            <center>
+              <a href="https://t.me/arakurumi" target="_blank"><img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/arakurumi&style=social&logo=telegram&link=https://t.me/arakurumi" />
+            </center>
+              </a>
               </span>
             </span>
           </div>
